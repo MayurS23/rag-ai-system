@@ -505,3 +505,17 @@ Built with:
 - [Anthropic Claude](https://www.anthropic.com/) — LLM generation
 - [Pydantic](https://docs.pydantic.dev/) — data validation and settings management
 - [structlog](https://www.structlog.org/) — structured logging
+
+##  Author
+
+**Mayur S** · [@MayurS23](https://github.com/MayurS23)
+
+---
+
+<div align="center">
+
+ If this project helped you learn something, please star it!
+
+</div>
+
+<div align="center"> Built with ❤️ by <a href="https://github.com/MayurS23">MayurS23</a> </div>
